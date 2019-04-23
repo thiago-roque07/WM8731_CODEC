@@ -1,0 +1,10 @@
+
+
+ToDo:
+- Desenhar footprint do cristal
+- Desenhar footprint do conector do fone de ouvido
+
+
+
+Done:
+
